@@ -17,11 +17,9 @@ Ideally, it would be best to go through each chapter for a better understanding 
 
 To learn more about TensorFlow or Keras, which are important tools for our project, I recommend the following books:
 
-- [Deep Learning with Python](https://drive.google.com/open?id=1-Yf_ZfX-8VHxq0ecjnZznM_YTz2wrFeX&authuser=carlesoctavianus%40gmail.com&usp=drive_fs)
-
+- [Deep Learning with Python]
 Building practical projects with NLP using the Hugging Face ecosystem is also important for our project. You can use the following resources for a basic understanding of the Hugging Face ecosystem:
-
-- [Natural Language Processing with Hugging Face](https://drive.google.com/open?id=1-Yf_ZfX-8VHxq0ecjnZznM_YTz2wrFeX&authuser=carlesoctavianus%40gmail.com&usp=drive_fs)
+- [Natural Language Processing with Hugging Face]
 - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
 
 ## 3. Engineering/Production Level of ML-Powered Products
